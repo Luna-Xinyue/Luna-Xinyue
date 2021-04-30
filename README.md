@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 This is Xinyue
 
 <!--
 **Luna-Xinyue/Luna-Xinyue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+😃 I am Xinyue Fan, you can also call me Luna.
+
+- 🌱 MEng in Computer Engineering @ UVA
+- 👩‍💼 Previously at Mettler-Toledo China R&D Sharing Center
+- 💻 C++ / Python / Java / HTML / CSS / Matlab
+- 🤔 Interested in Computer Vision, Visual Recognition
+- 👍 [My blog](https://www.jianshu.com/u/59804ab28e58)
