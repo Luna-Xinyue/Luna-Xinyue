@@ -13,6 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+Interesting
+[![trophy](https://github-profile-trophy.vercel.app/?username=Luna-Xinyue&column=7)](https://github.com/Luna-Xinyue)
+
+[![Luna-Xinyue's github stats](https://github-readme-stats.vercel.app/api?username=Luna-Xinyue&show_icons=true)](https://github.com/Luna-Xinyue/)
+
 -->
 😃 I am Xinyue Fan, you can also call me Luna.
 
