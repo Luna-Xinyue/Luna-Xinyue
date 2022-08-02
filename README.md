@@ -25,4 +25,4 @@ Interesting
 - 👩‍💼 Previously at Mettler-Toledo China R&D Sharing Center
 - 💻 C++ / Python / Java / HTML / CSS / Matlab
 - 🤔 Interested in Computer Vision, Visual Recognition
-- 👍 [My blog](https://www.jianshu.com/u/59804ab28e58)
+; - 👍 [My blog](https://www.jianshu.com/u/59804ab28e58)
