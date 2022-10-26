@@ -21,8 +21,13 @@ Interesting
 -->
 😃 I am Xinyue Fan, you can also call me Luna.
 
-- 🌱 MEng in Computer Engineering @ UVA
-- 👩‍💼 Previously at Mettler-Toledo China R&D Sharing Center
-- 💻 C++ / Python / Java / HTML / CSS / Matlab
-- 🤔 Interested in Computer Vision, Visual Recognition
-<!-- - 👍 [My blog](https://www.jianshu.com/u/59804ab28e58)-->
+- 😄 Pronouns: She/Her
+- 😎 I am a Feminist | Mom of two dogs🐶| Drone pilot
+- 💪 Advocates for Women in STEM and open source software
+- 🌱 Previous: Master in Computer Engineering @ UVA
+- 👩‍💼 Current: Machine Learning Engineer @ Intel
+- 💻 Python / Java / C++ / Tensorflow / PyTorch
+- 🤔 Interested in Computer Vision, Interpretable ML, DevOps
+- 👯 I’m looking to collaborate on open source machine learning projects
+- 📫 How to reach me: [My Linkedin](https://www.linkedin.com/in/xinyuefan)
+- 👍 You can find my blog [here](https://luna-xinyue.github.io/)
