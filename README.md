@@ -22,10 +22,10 @@ Interesting
 😃 I am Xinyue Fan, you can also call me Luna.
 
 - 😄 Pronouns: She/Her
-- 😎 I am a Feminist | Mom of two dogs🐶| Drone pilot
+- 😎 I am a Feminist | Comedian | Podcast host
 - 💪 Advocates for Women in STEM and open source software
 - 🌱 Previous: Master in Computer Engineering @ UVA
-- 👩‍💼 Current: Machine Learning Engineer @ Intel
+- 👩‍💼 Current: AI Framework Engineer @ Intel
 - 💻 Python / Java / C++ / Tensorflow / PyTorch
 - 🤔 Interested in Computer Vision, Interpretable ML, DevOps
 - 👯 I’m looking to collaborate on open source machine learning projects
